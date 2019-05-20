@@ -1,6 +1,4 @@
-function solution(a, b) {
+export function solution(a, b) {
   console.log(a + "+" + b);
   return a + b;
 }
-
-export default solution;
